@@ -1,15 +1,14 @@
 
 import './App.css';
-import ExampleSwiper from './components/ExampleSwiper';
-import ExampleUseMemo from './components/ExampleUseMemo';
+import ExampleUseReducer from './components/ExampleUseReducer';
+import ToDoExample from './components/ToDoExample';
 
 function App() {
 
   return (
     <>
-      {/* <ExampleUseMemo /> */}
-
-      <ExampleSwiper />
+      <ExampleUseReducer />
+      <ToDoExample />
     </>
   )
 }

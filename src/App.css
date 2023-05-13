@@ -5,3 +5,10 @@
     color: #fd0909d7;
     font-size: 40px;
 }
+.dark {
+    color: #000;
+}
+
+.darker {
+    color: #aaa;
+}
